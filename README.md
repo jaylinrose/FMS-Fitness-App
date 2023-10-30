@@ -1,6 +1,6 @@
 # Fitness Tracker App
 
-// Inspiratiom
+// Inspiration
 
 The inspirtation behind this project was being able to create an app that provides guidence, organization, and motivation to any user starting or well on their fitness journey. Tools as such we believe will help the community thrive and encourage them to reach their goals.
 
