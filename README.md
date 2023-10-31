@@ -24,7 +24,7 @@ Dotenv
 
 // Issues
 
-No known issues to date
+Deployment for both frontend and backend are live but unfortunately does not render 
 
 //API Endpoints
 
@@ -43,3 +43,15 @@ Hopefully in the future developement of this app users will be able to interact 
 Heriberto Delgado
 Frank Ortiz
 Jaylin Manuel
+
+// Deployed Links
+
+Front End:
+(Live link) https://my-fitness-tracker-f.onrender.com/index.js
+https://dashboard.render.com/static/srv-cl03uebjdq6s739johig/deploys/dep-cl06bprjdq6s73a5t3jg
+
+Back End: 
+
+(Live link) https://fitness-app-backend-0nwm.onrender.com/
+
+https://dashboard.render.com/web/srv-cl05hhqs1bgc73934jag/deploys/dep-cl05qnqs1bgc73952i90
