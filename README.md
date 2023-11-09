@@ -47,11 +47,11 @@ Jaylin Manuel
 // Deployed Links
 
 Front End:
-(Live link) https://my-fitness-tracker-f.onrender.com/index.js
-https://dashboard.render.com/static/srv-cl03uebjdq6s739johig/deploys/dep-cl06bprjdq6s73a5t3jg
+(Live link) https://fitness-app-frontend-3cru.onrender.com/login
+(dashboard) https://dashboard.render.com/web/srv-cl05hhqs1bgc73934jag/deploys/dep-cl6het9k857s73ctb2fg
 
 Back End: 
 
 (Live link) https://fitness-app-backend-0nwm.onrender.com/
 
-https://dashboard.render.com/web/srv-cl05hhqs1bgc73934jag/deploys/dep-cl05qnqs1bgc73952i90
+(dashboard) https://dashboard.render.com/web/srv-cl05hhqs1bgc73934jag/deploys/dep-cl05qnqs1bgc73952i90
